@@ -1,4 +1,4 @@
-# Basic Fortnite External
+# Basic Fortnite External, good for start with pasting (I think)
 
 The driver is Detected and signed (sha1, Chinese certificate) because it was used for tests, I dont recommend using this driver in any way even random driver from leaks will be probably more ud than this.
 
